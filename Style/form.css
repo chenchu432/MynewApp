@@ -2,6 +2,7 @@
 :root{
   --accent-color: #8672FF;
   --base-color: white;
+  /* --bg-color:rgb(110,180,239,0.3); */
   --text-color: #2E2B41;
   /* --text1-color: #23f707; */
   --input-color: #F3F0FF;
@@ -19,7 +20,7 @@ html{
 }
 body{
   min-height: 100vh;
-  background-image: url(../background.jpg);
+  background-image: url(../formbackground.jpg);
   background-size: cover;
   background-position:right;
   overflow: hidden;
